@@ -37,7 +37,7 @@ Exploring HL7 FHIR APIs and building data integration pipelines using synthetic 
 ## 🩺 Fun fact / Why health tech
 I entered health tech because standardizing data exchange and leveraging AI can directly improve clinical workflows and patient care.
 
-## 📫 Let's Connect
+## 📫 Let's Connect.
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com)
-- Email: [Your Email](mailto:your.email@example.com)
+- Email: [emilyhealthtech@gmail.com](mailto:emilyhealthtech@gmail.com)
 - Twitter/X: [@YourHandle](https://x.com)
