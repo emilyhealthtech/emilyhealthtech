@@ -40,4 +40,4 @@ I entered health tech because standardizing data exchange and leveraging AI can 
 ## 📫 Let's Connect.
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/chidiogo-anisiobi-458557274)
 - Email: [emilyhealthtech@gmail.com](mailto:emilyhealthtech@gmail.com)
-- Twitter/X: [@YourHandle](https://x.com)
+- Twitter/X: [@Handle](https://x.com)
